@@ -4,7 +4,9 @@ import Link from 'next/link';
 export default function Navbar() {
     return (
         <nav className="nav">
-            <Link href="/" className="site-title">Rescue Next</Link>
+            <Link href="/" className="site-title">
+                <img src="RescueNext.png"></img>
+            </Link>
             <ul>
                 <li><a href="/home">Home</a></li>
                 <li><a href="/report">Report Needs</a></li>
