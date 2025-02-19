@@ -1,43 +1,31 @@
-"use client"
+"use client"; // Ensure this is set for client-side rendering
 
-import { useState } from 'react'; 
-import Navbar from "./sites/Navbar"; 
-import Home from "./pages/Home"; 
-import Report from "./pages/Report"; 
-import Volunteer from "./pages/Volunteer"; 
-import About from "./pages/About"; 
-import Contact from "./pages/Contact"; 
+import { useState } from "react";
+import Navbar from "./components/navbar";
+import Button from "./components/button";
+import DonateButton from "./components/donateButton";
 
-export default function Page() {
-    const [currentPage, setCurrentPage] = useState("home"); 
-    let Component;
-
-    // Use a switch statement to determine which component to render
-    switch (currentPage) {
-        case "home":
-            Component = Home;
-            break;
-        case "report":
-            Component = Report;
-            break;
-        case "volunteer":
-            Component = Volunteer;
-            break;
-        case "about":
-            Component = About;
-            break;
-        case "contact":
-            Component = Contact;
-            break;
-        default:
-            Component = Home; // Default to Home if the path doesn't match
-    }
-
-    return (
-        <>
-            <Navbar setCurrentPage={setCurrentPage} /> {/* Pass the setter function to Navbar */}
-            <Component /> {/* Render the selected component */}
-        </>
-    );
+export default function Home() {
+  return (
+    <>
+      <Navbar />
+      <div className="container">
+        <div className="image-wrapper">
+          <img
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvQx4O0jsqV6bQhLqiXu-uEQiqLhxlVV0ecQ&s"
+            className="image"
+          />
+          <h1 className="image-text">Let Us Rescue You</h1>
+          <Button /> 
+        </div>
+      </div>
+      <div className="donation-box">
+            <input placeholder="First Name" className ="field"/>
+            <input placeholder="Amount" className = "field"/>
+            <input placeholder="How often?" className = "field"/>
+            <DonateButton />
+      </div>
+    </>
+  );
 }
 
