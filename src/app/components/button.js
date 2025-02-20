@@ -11,8 +11,8 @@ export default function Button() {
   };
 
   return (
-    <button onClick={handleClick} className="btn">
-      Primary
+    <button onClick={handleClick} className="btn" type="button">
+      Donate Now
     </button>
   );
 }

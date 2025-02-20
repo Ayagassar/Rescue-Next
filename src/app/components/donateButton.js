@@ -12,7 +12,7 @@ export default function DonateButton() {
 
   return (
     <button onClick={handleClick} className="btn2">
-      Donate
+      Donate Now
     </button>
   );
 }
