@@ -1,6 +1,6 @@
-"use client"
+"use client";
 import React from 'react';
-import ArticleCard from "./articleCard";
+import ArticleCard from "../components/articleCard";
 
 export default function ArticlesSection() {
     const articles = [

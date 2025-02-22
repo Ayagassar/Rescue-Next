@@ -1,8 +1,8 @@
 "use client"
 import React, { useState } from 'react';; 
-import Image from 'next/image'
-import Logo from '../assets/logo.png'
-import HeroImage from '../assets/HeroImage.jpg'
+import Image from 'next/image';
+import Logo from '../assets/logo.png';
+import HeroImage from '../assets/heroImage.jpg';
 
 const HeroSection= () => {
     const [expanded, setExpanded] = useState(false);
