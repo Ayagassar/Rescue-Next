@@ -28,7 +28,7 @@ The website follows a **clean, modern, and accessible** design approach with a u
 
 
 ### 📝 Articles
-) 
+![articles](https://github.com/Ayagassar/Rescue-Next/blob/main/articles.png?raw=true) 
 
 ### ⚙️ Services
 
