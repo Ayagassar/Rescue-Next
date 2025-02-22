@@ -29,11 +29,11 @@
 The website features a clean, modern, and responsive design, ensuring accessibility and a seamless user experience across all devices.
 
 ### 🏠 Hero Section
-
+![Hero Section](https://github.com/Ayagassar/Rescue-Next/blob/main/herosection.png?raw=true)
 
 
 ### 📝 Articles
-![articles](https://github.com/Ayagassar/Rescue-Next/blob/main/articles.png?raw=true) 
+![Articles](https://github.com/Ayagassar/Rescue-Next/blob/main/articles.png?raw=true) 
 
 ### ⚙️ Services
 
