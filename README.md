@@ -1,30 +1,35 @@
+# 🌍 Rescue Next – Non-Profit Organization Website
 
-# 🌍 Non-Profit Organization Website  
+## 📌 About Rescue Next
+**Rescue Next** is a non-profit organization committed to providing essential assistance, guidance, and care to uplift lives and create a brighter future. Our mission encompasses:
 
-## 📌 About the Project  
-This is a **front-end web project** built for a **non-profit organization** to raise awareness, showcase impact, and encourage donations and volunteer participation. The website is designed to be user-friendly, visually appealing, and fully responsive.  
+- **Pure Water**: Ensuring communities have access to clean and safe drinking water.
+- **Healthy Food**: Delivering nutritious meals to promote health and well-being.
+- **Medical Care**: Offering essential healthcare services to underserved populations.
+- **Education**: Providing free and accessible education to empower individuals.
 
-## 🚀 Features  
-- **Hero Section** – Engaging intro with mission statement & CTA  
-- **About Us** – Overview of the organization’s purpose and goals  
-- **Our Impact** – Success stories and statistics  
-- **Programs** – Details on key initiatives and how they help  
-- **Get Involved** – Ways to donate, volunteer, or partner  
-- **Events & News** – Latest updates and upcoming events  
-- **Testimonials** – Feedback from donors, volunteers, and beneficiaries  
-- **Contact Page** – Easy way for users to reach out  
-- **Fully Responsive** – Works across all devices  
+## 🚀 Features
+- **Hero Section**: Engaging introduction with mission statement and prominent call-to-action buttons.
+- **Services Overview**: Detailed descriptions of our core services—Pure Water, Healthy Food, Medical Care, and Education.
+- **Why Choose Us**: Highlights our impact, transparency, community-driven approach, and trustworthiness.
+- **Articles and News**: Latest updates on issues affecting our mission and the communities we serve.
+- **Photo Gallery**: Visual showcase of our initiatives and their impact.
+- **Frequently Asked Questions**: Answers to common inquiries about our work and how to get involved.
+- **Contact Information**: Easy access to reach out and connect with us.
 
-## 🛠️ Technologies Used  
-- **HTML5**  
-- **CSS3** (with Flexbox & Grid)  
-- **JavaScript**  
-- **React.js** (if applicable)  
+## 🛠️ Technologies Used
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **React.js**
+- **Next.js**
+- **Vercel** for deployment
 
-## 🎨 Design  
-The website follows a **clean, modern, and accessible** design approach with a user-friendly interface.  
+## 🎨 Design
+The website features a clean, modern, and responsive design, ensuring accessibility and a seamless user experience across all devices.
 
 ### 🏠 Hero Section
+
 
 
 ### 📝 Articles
