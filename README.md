@@ -25,12 +25,11 @@ This is a **front-end web project** built for a **non-profit organization** to r
 The website follows a **clean, modern, and accessible** design approach with a user-friendly interface.  
 
 ### 🏠 Hero Section
-![Homepage](./screenshots/heroSection.png) 
+
 
 ### 📝 Articles
-![Homepage](./screenshots/articles.png) 
+) 
 
 ### ⚙️ Services
-![Homepage](./screenshots/services.png) 
 
 
