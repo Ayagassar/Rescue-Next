@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import '../globals.css'; 
+"use client"
+import React, { useState } from 'react';; 
 import Image from 'next/image'
 import Logo from '../assets/logo.png'
 import HeroImage from '../assets/HeroImage.jpg'

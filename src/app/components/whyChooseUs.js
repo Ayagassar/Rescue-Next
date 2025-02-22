@@ -1,3 +1,4 @@
+"use client"
 import React from 'react';
 
 export default function WhyChooseUs() {
@@ -5,7 +6,7 @@ export default function WhyChooseUs() {
     <section className="why-choose-us">
       <div className="container">
         <div className="why-choose-us-content">
-          {/* Text on the Left */}
+        
           <div className="why-choose-us-text">
             <h2 className="section-title">Why Choose Us?</h2>
             <p className="section-description">
@@ -39,7 +40,7 @@ export default function WhyChooseUs() {
             </ul>
           </div>
 
-          {/* Image on the Right */}
+      
           <div className="why-choose-us-image">
             <img
               src="https://www.socialeurope.eu/wp-content/uploads/2022/01/shutterstock_433319491.jpg"

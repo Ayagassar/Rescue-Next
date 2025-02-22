@@ -1,3 +1,5 @@
+"use client"
+
 import React, { useState } from "react";
 
 export default function ArticleCards ({ title, description, imageUrl, readMoreUrl}) {
