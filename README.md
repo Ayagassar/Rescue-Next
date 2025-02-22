@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# 🌍 Non-Profit Organization Website  
 
-First, run the development server:
+## 📌 About the Project  
+This is a **front-end web project** built for a **non-profit organization** to raise awareness, showcase impact, and encourage donations and volunteer participation. The website is designed to be user-friendly, visually appealing, and fully responsive.  
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Features  
+- **Hero Section** – Engaging intro with mission statement & CTA  
+- **About Us** – Overview of the organization’s purpose and goals  
+- **Our Impact** – Success stories and statistics  
+- **Programs** – Details on key initiatives and how they help  
+- **Get Involved** – Ways to donate, volunteer, or partner  
+- **Events & News** – Latest updates and upcoming events  
+- **Testimonials** – Feedback from donors, volunteers, and beneficiaries  
+- **Contact Page** – Easy way for users to reach out  
+- **Fully Responsive** – Works across all devices  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Technologies Used  
+- **HTML5**  
+- **CSS3** (with Flexbox & Grid)  
+- **JavaScript**  
+- **React.js** (if applicable)  
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 🎨 Design  
+The website follows a **clean, modern, and accessible** design approach with a user-friendly interface.  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 🏠 Hero Section
+![Homepage](./screenshots/heroSection.png) 
 
-## Learn More
+### 📝 Articles
+![Homepage](./screenshots/articles.png) 
 
-To learn more about Next.js, take a look at the following resources:
+### ⚙️ Services
+![Homepage](./screenshots/services.png) 
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
