@@ -1,6 +1,6 @@
 # 🌍 Rescue Next – Non-Profit Organization Website
 
-## 📌 About Rescue Next
+## About Rescue Next
 **Rescue Next** is a non-profit organization committed to providing essential assistance, guidance, and care to uplift lives and create a brighter future. Our mission encompasses:
 
 - **Pure Water**: Ensuring communities have access to clean and safe drinking water.
