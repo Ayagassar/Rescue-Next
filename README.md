@@ -1,4 +1,4 @@
-# 🌍 Rescue Next – Non-Profit Organization Website
+# Rescue Next – Non-Profit Organization Website
 
 ## About Rescue Next
 **Rescue Next** is a non-profit organization committed to providing essential assistance, guidance, and care to uplift lives and create a brighter future. Our mission encompasses:
@@ -8,7 +8,7 @@
 - **Medical Care**: Offering essential healthcare services to underserved populations.
 - **Education**: Providing free and accessible education to empower individuals.
 
-## 🚀 Features
+## Features
 - **Hero Section**: Engaging introduction with mission statement and prominent call-to-action buttons.
 - **Services Overview**: Detailed descriptions of our core services—Pure Water, Healthy Food, Medical Care, and Education.
 - **Why Choose Us**: Highlights our impact, transparency, community-driven approach, and trustworthiness.
@@ -17,7 +17,7 @@
 - **Frequently Asked Questions**: Answers to common inquiries about our work and how to get involved.
 - **Contact Information**: Easy access to reach out and connect with us.
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **HTML5**
 - **CSS3**
 - **JavaScript**
@@ -25,17 +25,17 @@
 - **Next.js**
 - **Vercel** for deployment
 
-## 🎨 Design
+## Design
 The website features a clean, modern, and responsive design, ensuring accessibility and a seamless user experience across all devices.
 
-### 🏠 Hero Section
+### Hero Section
 ![Hero Section](https://github.com/Ayagassar/Rescue-Next/blob/main/herosection.png?raw=true)
 
 
-### 📝 Articles
+### Articles
 ![Articles](https://github.com/Ayagassar/Rescue-Next/blob/main/articles.png?raw=true) 
 
-### ⚙️ Services
+### Services
 ![Services](https://github.com/Ayagassar/Rescue-Next/blob/main/services.png?raw=true)
 
 
